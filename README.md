@@ -1,4 +1,4 @@
-# Open60
+# Open60 (Name TBD)
  A standard 60% utilizing the H60 and Geon Tadpoles.
 # Specs
 * Mounting style: Geon Tadpole (Technically can also use gasket)
